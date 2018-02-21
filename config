@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	logallrefupdates = false
+	precomposeunicode = true
+[remote "github"]
+	url = https://github.com/rilakkuma360/spring-cloud.git
