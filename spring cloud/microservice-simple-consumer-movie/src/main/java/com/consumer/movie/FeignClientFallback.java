@@ -10,6 +10,8 @@ public class FeignClientFallback implements UserFeignClient {
 		User user = new User();
 		user.setId(-1L);
 		user.setUsername("默认用户");
+		user.setName("默认用户");
+		user.setName("默认用户");
 		return user;
 	}
 
